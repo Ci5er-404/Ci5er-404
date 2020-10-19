@@ -11,7 +11,7 @@
 
 <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/coding.gif" alt="coding ?">
 
-<b>Skills :</b> <code>CyberSecurity Enthusiast</code> | <code>C</code> | <code>C</code> | <code>C++</code> | <code>HTML</code> | <code>CSS</code> | <code>Python</code>| <code>Android Reverse Engineering</code> |
+<b>Skills :</b> <code>CyberSecurity Enthusiast</code> | <code>C</code> | <code>C++</code> | <code>HTML</code> | <code>CSS</code> | <code>Python</code>| <code>Android Reverse Engineering</code> |
 
 <br><img src="https://github-readme-stats.vercel.app/api?username=Ci5er-404&hide=prs,issues&show_icons=true&title_color=2979FF&text_color=000000&icon_color=2979FF&bg_color=ffffff" alt="SVR's github stats">
 
