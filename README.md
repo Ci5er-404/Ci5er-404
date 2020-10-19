@@ -3,7 +3,7 @@
 
 <div align="center" width="50">
 
-<code>I'm a Computer Science Engineer. 😎</code>
+<code>I'm a Would-Be Computer Science Engineer. 😎</code>
 <code>I love programming. ❤ But I am too noob when it comes to coding😉</code>
 <code> Talk is cheap. If you won't show me the code, I will Reverse Engineer it. ❤</code>
 
