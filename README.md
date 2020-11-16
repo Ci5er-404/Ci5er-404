@@ -7,7 +7,7 @@
 <code>I love programming. ❤ But I am too noob when it comes to coding😉</code>
 <code> Talk is cheap. If you won't show me the code, Maybe I can Reverse Engineer it. ❤</code>
 
-<code>I spend my free time on <a href="https://t.me/ci5er">Telegram</a>. 😇</code>
+<code>I spend my free time on <a href="https://t.me/ci5er">Telegram</a>and<a href="https://wa.link/lsncyv">WhatsApp</a>. 😇</code>
 
 <img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/coding.gif" alt="coding ?">
 
