@@ -4,8 +4,7 @@
 <div align="center" width="50">
 
 <code>I'm a CS Student and a CyberSecurity Enthusiast. 😎</code>
-<code>I love programming. ❤ But I am too noob when it comes to coding😉</code>
-<code> Talk is cheap. If you won't show me the code, Maybe I can Reverse Engineer it. ❤</code>
+<code>I am noob in terms of long coding btw.❤ But I like to learn new things.😉</code>
 
 <code>I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="https://wa.link/lsncyv">WhatsApp</a>. 😇</code>
 
