@@ -9,7 +9,7 @@
 
 <code>I spend my free time on <a href="https://t.me/ci5er">Telegram</a> and <a href="https://wa.link/lsncyv">WhatsApp</a>. 😇</code>
 
-<img src="https://github.com/SamirJanaOfficial/samirjanaofficial/blob/main/gifs/coding.gif" alt="coding ?">
+<img src="https://raw.githubusercontent.com/Ci5er-404/Ci5er-404/main/PSX_20201124_212548.jpg" alt="coding ?">
 
 <b>Skills :</b> <code>CyberSecurity Enthusiast</code> | <code>C</code> | <code>C++</code> | <code>HTML</code> | <code>CSS</code> | <code>Python</code>| <code>Android Reverse Engineering</code> |
 
